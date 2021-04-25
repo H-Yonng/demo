@@ -1,0 +1,13 @@
+$ mkdir name.type	//创建文件夹
+$ cd 路径		//打开文件夹
+$ git init 		//本地仓库
+$ git diff 		
+$ git status 	//查看仓库当前的状态
+$ git add
+$ git commit
+$ git checkout -- 
+$ git reset
+$ git log
+$ git remote add origin git@github.com
+$ git push -u origin master
+$ git push
