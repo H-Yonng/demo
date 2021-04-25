@@ -4,7 +4,7 @@ $ cd ..			            //退回目录上一层
 $ pwd 			            //查看当前目录
 $ git init 			        //本地仓库
 $ git touch file		    //创建文件
-$ notepad		//打开记事本
+$ notepad		            //打开记事本
 $ git add file		      //添加到暂存区	
 $ git status 		        //查看仓库当前的状态
 $ git commit -m "注释" 	//提交
